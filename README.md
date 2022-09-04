@@ -1,4 +1,4 @@
-[![MasterHead](https://static01.nyt.com/images/2022/07/12/science/12WEBB-LIVE-carina-header/12WEBB-LIVE-carina-header-videoSixteenByNine3000.jpg)](https://www.linkedin.com/in/ahmed-ibraheem-65771210/)
+[![MasterHead](https://www.iai.co.il/drupal/sites/default/files/2019-11/Space_Header_1920x525.jpg)](https://www.linkedin.com/in/ahmed-ibraheem-65771210/)
 <h1 align="center">Hi 👋, I'm Ahmed Ibraheem</h1>
 <h3 align="center">Senior undergraduate physicist, interested in theoretical cosmology.</h3>
 
