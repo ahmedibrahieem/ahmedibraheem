@@ -1,8 +1,8 @@
 [![MasterHead](https://i.pinimg.com/originals/90/ca/e0/90cae0cf9b6cded6456a336101de9fd8.jpg)](https://www.linkedin.com/in/ahmed-ibraheem-65771210/)
 <h1 align="center">Hi 👋, I'm Ahmed Ibraheem</h1>
 <h3 align="center">Senior undergraduate physicist, interested in theoretical cosmology.</h3>
-<img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/212/212822.gif">
 
+<img align="right" alt="Space" width="2000" src="https://giffiles.alphacoders.com/212/212822.gif">
 - 🌱 I’m currently learning **Julia, Machine Learning specialization, Data Analysis in Python, and signal processing in MatLab**
 
 - 📝You can find my physics Articles (in Arabic) on: [https://egyresmag.com/author/ahmed_ibraheem/](https://egyresmag.com/author/ahmed_ibraheem/)
@@ -14,7 +14,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-ibraheem-65771210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-ibraheem-65771210/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ahmed ibraheem (physicist)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ahmed ibraheem (physicist)" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100003833855562" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100003833855562" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucocjof0rntqgyxw_r_hyzaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucocjof0rntqgyxw_r_hyzaq" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
